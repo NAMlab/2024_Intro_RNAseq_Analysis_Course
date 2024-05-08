@@ -1,1 +1,1 @@
-# 2024_Intro_RNAseq_Analysis_Course
+# Project Module 2024 - Introduction to Gene Expression Analysis using RNAseq Data
