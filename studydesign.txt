@@ -1,0 +1,7 @@
+sra_accession	sample	group	species	cultivar	tissue
+SRR15245010	control1	control	Solanum_lycopersicum	Moneymaker	leaf
+SRR15245008	control2	control	Solanum_lycopersicum	Moneymaker	leaf
+SRR15245007	control3	control	Solanum_lycopersicum	Moneymaker	leaf
+SRR15244998	drought1	drought	Solanum_lycopersicum	Moneymaker	leaf
+SRR15244997	drought2	drought	Solanum_lycopersicum	Moneymaker	leaf
+SRR15245013	drought3	drought	Solanum_lycopersicum	Moneymaker	leaf
