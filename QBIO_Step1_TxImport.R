@@ -12,6 +12,9 @@
 # load packages----
 # use install.packages("package_name") if not found
 # use setRepositories() if no install candidate present
+install.packages("rhdf5")
+install.packages("tidyverse")
+install.packages("tximport")
 library(rhdf5) #provides functions for handling hdf5 file formats (kallisto outputs bootstraps in this format)
 library(tidyverse) # provides access to Hadley Wickham's collection of R packages for data science, which we will use throughout the course
 library(tximport) # package for getting Kallisto results into R
