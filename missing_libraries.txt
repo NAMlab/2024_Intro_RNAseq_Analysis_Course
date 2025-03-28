@@ -1,0 +1,15 @@
+sudo apt update
+sudo apt install build-essential
+sudo apt-get install zlib1g-dev
+sudo apt-get install libssl-dev
+sudo apt-get install libpng-dev
+sudo apt-get install libxml2-dev
+sudo apt-get install libcurl-dev
+sudo apt-get install libcurl4-openssl-dev
+sudo apt-get install libfontconfig1-dev libfreetype6-dev
+sudo apt-get install libharfbuzz-dev
+sudo apt-get install libtiff5-dev
+sudo apt-get install libfribidi-dev
+sudo apt-get install gfortran
+sudo apt-get install libblas-dev  liblapack-dev
+
