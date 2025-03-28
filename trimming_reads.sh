@@ -17,7 +17,7 @@
 
 # example as an individual command
 trimmomatic PE -threads 8 SRR15244997_1.fastq.gz SRR15244997_2.fastq.gz SRR15244997_trimmed_1.fastq.gz SRR15244997_trimmed_unpaired_1.fastq.gz SRR15244997_trimmed_2.fastq.gz SRR15244997_trimmed_unpaired_2.fastq.gz \
-ILLUMINACLIP: TrueSeq3-PE-2.fa:2:30:10 \
+ILLUMINACLIP:TruSeq3-PE-2.fa:2:30:10 \
 LEADING:3 \
 TRAILING:3 \
 HEADCROP:10 \
